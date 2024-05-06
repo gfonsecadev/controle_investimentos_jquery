@@ -2,7 +2,7 @@
 Com essa aplicação totalmente responsiva é possivel salvar suas ações, seus proventos sendo muito útil para ter um controle para declaração de IR.
 
 ## Tecnologias utilizadas:
-- JQUERY, AJAX, PHP, Bootstrap 
+- JQUERY, AJAX, PHP, BOOTSTRAP
 
   ### Screenshots:
   ### Tela de exibição de todos seus ativos
